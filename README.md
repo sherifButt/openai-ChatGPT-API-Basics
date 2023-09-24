@@ -16,6 +16,9 @@ For instance, if the user greets with "Hello, how are you today?", there's no ne
 
 However, when the user inquires, "What's the weather like in Boston?", it's imperative to recognize the intent to fetch weather details and extract the location "Boston" from the query.
 
+![Flow Chart of Hostess Cities Function Call](https://ummcsnegloedxcrwlucz.supabase.co/storage/v1/object/public/chatgpt-diagrams/2023-09-24/327ea3af-e10d-433e-a4c2-3bac91bd2dd7.png)
+
+
 ```mermaid
 flowchart TD
 
